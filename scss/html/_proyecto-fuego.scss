@@ -4,7 +4,7 @@
 @import "../utilidades/variables";
 
 .contenedor-fuego{
-    height: 140vh;
+    height: 120vh;
     padding: 1rem;
     @extend %grid;
     font-size: 0.75rem;
@@ -16,10 +16,11 @@
     main div div h2{
         @extend %display-align-justify;
     }
-
-    #carouselWithControls{
-        background-color:$bg-colour;
+    #carousel-fuego{
+        @extend %grid;
         
+        #carouselWithControls{
+            background-color:$bg-colour;
+        }
     }
-
 }
