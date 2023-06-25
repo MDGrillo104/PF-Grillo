@@ -13,7 +13,7 @@ body header {
   font-family: 'Darumadrop One', cursive;
   background-color: rgba(0, 0, 0, 0); }
 
-.contenedor-fuego, .contenedor-fuego #carousel-fuego, .contenedor-contactenos, .contenedor-historia, .contenedor-index {
+.contenedor-fuego, .contenedor-contactenos, .contenedor-historia, .contenedor-index {
   display: grid;
   grid-template-columns: auto;
   grid-template-rows: 25% 60% 15%; }
@@ -161,7 +161,7 @@ body header {
   font-family: 'Darumadrop One', cursive;
   background-color: rgba(0, 0, 0, 0); }
 
-.contenedor-fuego, .contenedor-fuego #carousel-fuego, .contenedor-contactenos, .contenedor-historia, .contenedor-index {
+.contenedor-fuego, .contenedor-contactenos, .contenedor-historia, .contenedor-index {
   display: grid;
   grid-template-columns: auto;
   grid-template-rows: 25% 60% 15%; }
@@ -213,7 +213,7 @@ body header {
   font-family: 'Darumadrop One', cursive;
   background-color: rgba(0, 0, 0, 0); }
 
-.contenedor-fuego, .contenedor-fuego #carousel-fuego, .contenedor-contactenos, .contenedor-historia, .contenedor-index {
+.contenedor-fuego, .contenedor-contactenos, .contenedor-historia, .contenedor-index {
   display: grid;
   grid-template-columns: auto;
   grid-template-rows: 25% 60% 15%; }
@@ -361,7 +361,7 @@ body header {
   font-family: 'Darumadrop One', cursive;
   background-color: rgba(0, 0, 0, 0); }
 
-.contenedor-fuego, .contenedor-fuego #carousel-fuego, .contenedor-contactenos, .contenedor-historia, .contenedor-index {
+.contenedor-fuego, .contenedor-contactenos, .contenedor-historia, .contenedor-index {
   display: grid;
   grid-template-columns: auto;
   grid-template-rows: 25% 60% 15%; }
@@ -383,7 +383,7 @@ body header {
   font-size: 0.75rem; }
   .contenedor-fuego #escritorio {
     display: none; }
-  .contenedor-fuego #carousel-fuego #carouselWithControls {
+  .contenedor-fuego #carouselWithControls {
     background-color: rgba(0, 0, 0, 0.075); }
 
 .contenedor-contactenos {
@@ -412,7 +412,7 @@ body header {
   font-family: 'Darumadrop One', cursive;
   background-color: rgba(0, 0, 0, 0); }
 
-.contenedor-fuego, .contenedor-fuego #carousel-fuego, .contenedor-contactenos, .contenedor-historia, .contenedor-index {
+.contenedor-fuego, .contenedor-contactenos, .contenedor-historia, .contenedor-index {
   display: grid;
   grid-template-columns: auto;
   grid-template-rows: 25% 60% 15%; }
@@ -560,7 +560,7 @@ body header {
   font-family: 'Darumadrop One', cursive;
   background-color: rgba(0, 0, 0, 0); }
 
-.contenedor-fuego, .contenedor-fuego #carousel-fuego, .contenedor-contactenos, .contenedor-historia, .contenedor-index {
+.contenedor-fuego, .contenedor-contactenos, .contenedor-historia, .contenedor-index {
   display: grid;
   grid-template-columns: auto;
   grid-template-rows: 25% 60% 15%; }
@@ -606,7 +606,7 @@ body header {
   font-family: 'Darumadrop One', cursive;
   background-color: rgba(0, 0, 0, 0); }
 
-.contenedor-fuego, .contenedor-fuego #carousel-fuego, .contenedor-contactenos, .contenedor-historia, .contenedor-index {
+.contenedor-fuego, .contenedor-contactenos, .contenedor-historia, .contenedor-index {
   display: grid;
   grid-template-columns: auto;
   grid-template-rows: 25% 60% 15%; }
@@ -754,7 +754,7 @@ body header {
   font-family: 'Darumadrop One', cursive;
   background-color: rgba(0, 0, 0, 0); }
 
-.contenedor-fuego, .contenedor-fuego #carousel-fuego, .contenedor-contactenos, .contenedor-historia, .contenedor-index {
+.contenedor-fuego, .contenedor-contactenos, .contenedor-historia, .contenedor-index {
   display: grid;
   grid-template-columns: auto;
   grid-template-rows: 25% 60% 15%; }
@@ -797,7 +797,7 @@ body header {
   font-family: 'Darumadrop One', cursive;
   background-color: rgba(0, 0, 0, 0); }
 
-.contenedor-fuego, .contenedor-fuego #carousel-fuego, .contenedor-contactenos, .contenedor-historia, .contenedor-index {
+.contenedor-fuego, .contenedor-contactenos, .contenedor-historia, .contenedor-index {
   display: grid;
   grid-template-columns: auto;
   grid-template-rows: 25% 60% 15%; }
@@ -945,7 +945,7 @@ body header {
   font-family: 'Darumadrop One', cursive;
   background-color: rgba(0, 0, 0, 0); }
 
-.contenedor-fuego, .contenedor-fuego #carousel-fuego, .contenedor-contactenos, .contenedor-historia, .contenedor-index {
+.contenedor-fuego, .contenedor-contactenos, .contenedor-historia, .contenedor-index {
   display: grid;
   grid-template-columns: auto;
   grid-template-rows: 25% 60% 15%; }
