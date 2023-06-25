@@ -1,0 +1,25 @@
+@import "../utilidades/mediaqueries";
+@import "../utilidades/extend";
+@import "../utilidades/mixin";
+@import "../utilidades/variables";
+
+.contenedor-fuego{
+    height: 140vh;
+    padding: 1rem;
+    @extend %grid;
+    font-size: 0.75rem;
+    
+    #escritorio{
+        display: none;
+    }
+  
+    main div div h2{
+        @extend %display-align-justify;
+    }
+
+    #carouselWithControls{
+        background-color:$bg-colour;
+        
+    }
+
+}

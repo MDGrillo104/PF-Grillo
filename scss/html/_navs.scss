@@ -1,0 +1,52 @@
+@import "../utilidades/mediaqueries";
+@import "../utilidades/extend";
+@import "../utilidades/mixin";
+@import "../utilidades/variables";
+
+body{
+
+    background-image: $fondo;
+    
+   
+        
+        header{
+            @extend %header;
+                .navbar-nav .nav-link{
+                @include navbar (small)}
+        }
+
+        main{
+            padding: 0% 10% 0% 10%;
+            display: grid;
+            grid-template-columns: 100%;
+            grid-template-rows: 100%;
+            align-items: center;
+            justify-content: center;
+            }
+
+        footer{
+            height: 15vh;
+            justify-content: space-between;
+            align-items: center;
+            display: flex;
+            margin-bottom: 0;
+            padding: 0.5rem;
+            padding-bottom: 1.5rem;
+            bottom: 0;
+
+            .marca-registrada{
+                font-size: small;
+                font-family: 'Darumadrop One', cursive; 
+            }
+
+            footer div a{
+                text-decoration:$text-decoration ;
+            }
+
+            .volver{
+                border-radius: 10px;
+                background-color: rgba(240, 196, 180, 0.438);
+                font-size: x-small;
+            }
+        }
+}

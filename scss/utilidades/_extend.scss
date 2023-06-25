@@ -1,0 +1,33 @@
+
+
+%header{
+    height: 25vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    font-family: 'Darumadrop One', cursive; 
+    background-color: rgba(0, 0, 0, 0);
+}
+
+%grid{
+    display: grid;
+    grid-template-columns: auto ;
+    grid-template-rows: 25% 60% 15% ;
+}
+
+
+%objeto{
+    display: flex;
+    object-fit: contain;
+    text-align: center;
+    object-position: center;
+}
+
+%display-align-justify{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+

@@ -1,0 +1,21 @@
+@import "../utilidades/mediaqueries";
+@import "../utilidades/extend";
+@import "../utilidades/mixin";
+@import "../utilidades/variables";
+
+.contenedor-index {
+    height: 100vh;
+    padding: 1rem;
+    @extend %grid;
+
+
+    .bienvenidos{
+        @include bienvenidos(2.5rem);
+        align-items: center;
+        justify-content: center;
+        }
+
+    .bienvenidos1{
+        @include bienvenidos(1rem);
+        }
+}
